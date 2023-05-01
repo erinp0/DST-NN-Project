@@ -40,6 +40,9 @@ The packages that need to be installed:
 * Keras
 * PIL
 
+## Data
+The original image set can be found at (this)[https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign] Kaggle location. Any .npy files can be found (here)[https://drive.google.com/drive/u/0/folders/19DC3gnTctrbupMXFsmIXcn5rB2KETPBm].
+
 ## Evidence
 
 Our working is shown in our own directories.
